@@ -1,3 +1,3 @@
 # Training
 
-`train` counts rows.
+Training was removed in c2.
