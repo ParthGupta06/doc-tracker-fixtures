@@ -1,0 +1,3 @@
+# Architecture
+
+Single linear scorer.

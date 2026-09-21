@@ -1,0 +1,3 @@
+# Training
+
+`train` counts rows.
