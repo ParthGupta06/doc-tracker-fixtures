@@ -1,3 +1,3 @@
 # Model
 
-`predict` returns 1 when the mean feature exceeds 0.6.
+`predict(features, weights=None)` returns 1 when the weighted mean exceeds 0.6.
