@@ -1,3 +1,3 @@
 # Architecture
 
-Single linear scorer.
+Weighted linear scorer.
